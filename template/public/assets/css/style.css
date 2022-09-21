@@ -2089,9 +2089,9 @@ header .form-inline {
       color: #fff; }
 
 /* Footer */
-footer.site-footer {
-  /*padding: 0 1.875em;*/ 
-  position: 0;
+.footer.site-footer {
+  padding: 0 1.875em;
+  position: absolute;
   bottom: 0;
   right: 0;
   padding-top: 15px;
